@@ -1,0 +1,14 @@
+﻿  G.cpp
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(214): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(228): warning C4018: “<”: 有符号/无符号不匹配
+d:\buaa_soft\编译大作业\consoleapplication1\consoleapplication1\g.cpp(354): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  ConsoleApplication1.cpp
+  ConsoleApplication1.vcxproj -> D:\BUAA_SOFT\编译大作业\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\BUAA_SOFT\编译大作业\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
